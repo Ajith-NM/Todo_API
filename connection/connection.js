@@ -17,3 +17,5 @@ DB.connect((err) => {
         console.log("DB connected");
     }
 })
+
+
